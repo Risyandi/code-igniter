@@ -35,7 +35,11 @@ $config['base_url'] = 'https://populify.com/';
 | variable so that it is blank.
 |
 */
-$config['index_page'] = 'index.php';
+/** for the show index.php you can use this config */
+// $config['index_page'] = 'index.php';
+
+/** for the hide index.php you can use this config */
+$config['index_page'] = '';
 
 /*
 |--------------------------------------------------------------------------

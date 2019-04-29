@@ -1,0 +1,24 @@
+<div id="container">
+    <h1><?php echo $title; ?></h1>
+    <div id="body">
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio quis qui praesentium aut debitis dolores quasi assumenda eaque perspiciatis, ratione neque architecto mollitia doloribus, blanditiis non voluptatibus numquam hic cum.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio quis qui praesentium aut debitis dolores quasi assumenda eaque perspiciatis, ratione neque architecto mollitia doloribus, blanditiis non voluptatibus numquam hic cum.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio quis qui praesentium aut debitis dolores quasi assumenda eaque perspiciatis, ratione neque architecto mollitia doloribus, blanditiis non voluptatibus numquam hic cum.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio quis qui praesentium aut debitis dolores quasi assumenda eaque perspiciatis, ratione neque architecto mollitia doloribus, blanditiis non voluptatibus numquam hic cum.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio quis qui praesentium aut debitis dolores quasi assumenda eaque perspiciatis, ratione neque architecto mollitia doloribus, blanditiis non voluptatibus numquam hic cum.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio quis qui praesentium aut debitis dolores quasi assumenda eaque perspiciatis, ratione neque architecto mollitia doloribus, blanditiis non voluptatibus numquam hic cum.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio quis qui praesentium aut debitis dolores quasi assumenda eaque perspiciatis, ratione neque architecto mollitia doloribus, blanditiis non voluptatibus numquam hic cum.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio quis qui praesentium aut debitis dolores quasi assumenda eaque perspiciatis, ratione neque architecto mollitia doloribus, blanditiis non voluptatibus numquam hic cum.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio quis qui praesentium aut debitis dolores quasi assumenda eaque perspiciatis, ratione neque architecto mollitia doloribus, blanditiis non voluptatibus numquam hic cum.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio quis qui praesentium aut debitis dolores quasi assumenda eaque perspiciatis, ratione neque architecto mollitia doloribus, blanditiis non voluptatibus numquam hic cum.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio quis qui praesentium aut debitis dolores quasi assumenda eaque perspiciatis, ratione neque architecto mollitia doloribus, blanditiis non voluptatibus numquam hic cum.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio quis qui praesentium aut debitis dolores quasi assumenda eaque perspiciatis, ratione neque architecto mollitia doloribus, blanditiis non voluptatibus numquam hic cum.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio quis qui praesentium aut debitis dolores quasi assumenda eaque perspiciatis, ratione neque architecto mollitia doloribus, blanditiis non voluptatibus numquam hic cum.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio quis qui praesentium aut debitis dolores quasi assumenda eaque perspiciatis, ratione neque architecto mollitia doloribus, blanditiis non voluptatibus numquam hic cum.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio quis qui praesentium aut debitis dolores quasi assumenda eaque perspiciatis, ratione neque architecto mollitia doloribus, blanditiis non voluptatibus numquam hic cum.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio quis qui praesentium aut debitis dolores quasi assumenda eaque perspiciatis, ratione neque architecto mollitia doloribus, blanditiis non voluptatibus numquam hic cum.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio quis qui praesentium aut debitis dolores quasi assumenda eaque perspiciatis, ratione neque architecto mollitia doloribus, blanditiis non voluptatibus numquam hic cum.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio quis qui praesentium aut debitis dolores quasi assumenda eaque perspiciatis, ratione neque architecto mollitia doloribus, blanditiis non voluptatibus numquam hic cum.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio quis qui praesentium aut debitis dolores quasi assumenda eaque perspiciatis, ratione neque architecto mollitia doloribus, blanditiis non voluptatibus numquam hic cum.</p>
+    </div>
+</div>
