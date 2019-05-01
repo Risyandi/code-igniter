@@ -11,7 +11,7 @@ class News extends CI_Controller {
     
     public function index(){
         $data['news'] = $this->news_models->get_news();
-        $data['title'] = 'News Archives';
+        $data['title'] = 'Listing News';
         $this->load->view('components/header', $data);
         $this->load->view('news/index', $data);
         $this->load->view('components/footer', $data);
@@ -33,7 +33,7 @@ class News extends CI_Controller {
         $this->load->helper('form');
         $this->load->library('form_validation');
 
-        $data['title'] = 'Create a news item';
+        $data['title'] = 'Create News';
 
         $this->form_validation->set_rules('title', 'Title', 'required');
         $this->form_validation->set_rules('text', 'Text', 'required');
@@ -44,7 +44,9 @@ class News extends CI_Controller {
         $this->load->view('components/footer');
     } else {
         $this->news_models->set_news();
+        $this->load->view('components/header', $data);
         $this->load->view('news/success');
+        $this->load->view('components/footer');
     }
 }
 

@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/code-igniter/index.php';
+$config['base_url'] = 'http://localhost/code-igniter';
 
 /*
 |--------------------------------------------------------------------------
@@ -36,10 +36,10 @@ $config['base_url'] = 'http://localhost/code-igniter/index.php';
 |
 */
 /** for the show index.php you can use this config */
-// $config['index_page'] = 'index.php';
+$config['index_page'] = 'index.php';
 
 /** for the hide index.php you can use this config */
-$config['index_page'] = '';
+// $config['index_page'] = '';
 
 /*
 |--------------------------------------------------------------------------
