@@ -11,6 +11,9 @@
                 <a href="<?php echo site_url('news/'.$news_item['slug']); ?>">
                     <button class="btn btn-primary">Read Articles</button>
                 </a>
+                <a href="<?php echo site_url('news/delete/'.$news_item['id']); ?>">
+                    <button class="btn btn-danger">Delete Articles</button>
+                </a>
             </div>
         </div>
     <?php endforeach; ?>
