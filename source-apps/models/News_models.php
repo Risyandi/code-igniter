@@ -9,8 +9,8 @@ class News_models extends CI_Model {
     /**
      * create function get method database
      */
-    public function get_news($slug = FALSE) {
-        if ($slug === FALSE) {
+    public function getNews($slug = false) {
+        if ($slug === false) {
             $query = $this->db->get('news');
             return $query->result_array();
         }
@@ -21,11 +21,10 @@ class News_models extends CI_Model {
     /**
      * create function set method database
      */
-    public function set_news(){
+    public function setNews(){
         $this->load->helper('url');
 
         $slug = url_title($this->input->post('title'), 'dash', TRUE);
-
         $data = array(
             'title' => $this->input->post('title'),
             'slug' => $slug,
@@ -33,5 +32,12 @@ class News_models extends CI_Model {
         );
 
         return $this->db->insert('news', $data);
+    }
+
+    /**
+     * create function delete method database
+     */
+    public function deleteNews($id){
+        return $this->db->delete('news', array('id' => $id));
     }
 }
